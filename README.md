@@ -2,7 +2,9 @@
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/aff403c0-c133-4f2a-9d60-7905a9a089b5)
 
 In this project, we are migrating an application that currently runs on virtual machines to the cloud using containerization.
+
 **Key Tasks are**
+
 1. Prepare a Dockerfile
 2. Build an image using docker build
 3. Deploy the application with Docker Compose
