@@ -1,5 +1,5 @@
 ### Migration to the Cloud with Containerization (Docker & Docker Compose)
-![image](https://github.com/user-attachments/assets/72eb23de-0994-40de-ad2f-9d37368a9e3a)
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/aff403c0-c133-4f2a-9d60-7905a9a089b5)
 
 In this project, we are migrating an application that currently runs on virtual machines to the cloud using containerization.
 **Key Tasks are**
